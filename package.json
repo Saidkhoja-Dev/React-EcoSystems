@@ -1,5 +1,5 @@
 {
-  "name": "React-Ecosystems",
+  "name": "React-EcoSystems",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,5 +24,13 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon-stark/React-EcoSystems.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dragon-stark/React-EcoSystems/issues"
+  },
+  "homepage": "https://github.com/dragon-stark/React-EcoSystems#readme"
 }
